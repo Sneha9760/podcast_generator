@@ -1,0 +1,9 @@
+pytube
+requests
+python-dotenv
+langchain_groq
+crewai
+pyttsx3
+youtube-transcript-api
+python-dotenv
+
